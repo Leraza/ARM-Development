@@ -1,0 +1,13 @@
+*.swp
+*.bin
+*.elf
+*.lst
+*.map
+*.o
+*.d
+*.map
+*.bin
+build/
+.cproject
+.project
+.settings
